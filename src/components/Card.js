@@ -1,6 +1,6 @@
 import { Card } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import "../style/styles.css";
+import "../App.css";
 
 const ThumbnailCard = ({ title, thumbnailUrl, videoId }) => {
     return (

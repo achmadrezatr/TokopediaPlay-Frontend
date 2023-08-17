@@ -1,4 +1,5 @@
-import "../style/styles.css";
+
+import "../App.css";
 
 const NavButton = ({ name, onClick, isActive }) => {
     const isClicked = isActive ? 'activeButton' : 'myButton';

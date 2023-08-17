@@ -1,6 +1,6 @@
 import NavigatorBar from "./NavigatorBar.js";
-import "../style/styles.css";
 import Main from "./Main.js";
+import "../App.css";
 import { useState, useEffect } from "react";
 
 const HomePage = () => {

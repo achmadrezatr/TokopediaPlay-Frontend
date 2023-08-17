@@ -1,5 +1,5 @@
 import ThumbnailCard from "./Card.js"
-import "../style/styles.css";
+import "../App.css";
 import { useState, useEffect } from "react";
 
 const Main = ({ selectedCategory, thumbnails }) => {

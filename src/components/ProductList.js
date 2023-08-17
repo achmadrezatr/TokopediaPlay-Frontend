@@ -1,5 +1,5 @@
 import { ProductCard } from './Card.js';
-import '../style/styles.css';
+import '../App.css'
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 
